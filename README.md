@@ -21,6 +21,7 @@ The studio would like each class to be displayed in a format similar to the foll
 ### Guidelines
 
 * Please use JavaScript, but feel free to use any frameworks/libraries/build tools you prefer.
+* This is just a single page for now, but the studio intends to build upon this project in the future. Keep this in mind when choosing how to structure your code base.
 * Share the code with us by sharing a Github repository or zipping the entire repo and emailing it to us.
 * Have a demo page available, either published on the web or pre-built locally into a file.
 * Please spend no more than ~4 hours working on the assignment. Try to find a consecutive block of time to work on it if you can.
